@@ -1,0 +1,5 @@
+aiohttp
+colorama
+fake-useragent
+Faker
+python-dotenv
